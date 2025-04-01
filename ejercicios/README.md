@@ -1,2 +1,2 @@
 # Ejercicios Prácticos de C
-Desarrolla aplicaciones completas aplicando múltiples conceptos del lenguaje. Ideal para consolidar tu aprendizaje.
+Aquí pondrás en práctica los conceptos teóricos mediante desafíos de programación graduados por dificultad.
