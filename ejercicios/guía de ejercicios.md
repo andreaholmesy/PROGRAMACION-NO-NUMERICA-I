@@ -127,9 +127,13 @@ Resultado booleano: 1 (verdadero) o 0 (falso).
 Tabla de Verdad para && y ||:
 
 A	 B 	A && B	 A || B
+
 0	 0	  0	       0
+
 0    1	  0	       1
+
 1	 0	  0	       1
+
 1	 1	  1	       1
 
 ## Ejemplo:
